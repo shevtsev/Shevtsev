@@ -1,19 +1,19 @@
-<h2>Привет! 👋</h2>
-<p>Меня зовут Фёдор, и мне 17 лет. Я увлеченный разработчик, который любит писать код, создавать увлекательные проекты и изучать новые технологии. Вот некоторые вещи о мне:</p>
+<h2>Hello! 👋</h2>
+<p>My name is Fedor, and I'm 17 years old. I'm a passionate developer who loves to write code, create exciting projects, and explore new technologies. Here are some things about me:</p>
 
 <ul>
-  <li>👨‍💻 Я пишу на <strong>C++</strong> и <strong>Python</strong>.</li>
-  <li>🎮 Разрабатываю игры на <strong>C++</strong>, исследуя границы возможного в игровом дизайне и геймплее.</li>
-  <li>🤖 Создаю телеграм ботов на <strong>Python</strong>, автоматизируя задачи и создавая удобные пользовательские интерфейсы.</li>
-  <li>🧠 Занимаюсь файн-тюнингом нейросетей на <strong>Python</strong>, погружаясь в мир машинного обучения и искусственного интеллекта.</li>
+    <li class="icons"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon"> I code in <strong>C++</strong> and <strong>Python</strong>.</li>
+    <li class="icons"><img src="https://img.icons8.com/color/48/000000/unity.png" alt="Game Development Icon"> I develop games in <strong>C++</strong>, pushing the boundaries of game design and gameplay.</li>
+    <li class="icons"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram Icon"> I create Telegram bots in <strong>Python</strong>, automating tasks and creating user-friendly interfaces.</li>
+    <li class="icons"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Icon"> I fine-tune neural networks in <strong>Python</strong>, diving into the world of machine learning and artificial intelligence.</li>
 </ul>
 
-<h3>Мои цели</h3>
-<p>Я хочу применить свои знания и навыки для создания значимых и инновационных проектов. Моя текущая цель - устроиться на работу в <strong>Яндекс</strong>, где я смогу вносить свой вклад в развитие высокотехнологичных решений и расти как профессионал в сфере программирования.</p>
+<h3>My Goals</h3>
+<p>I want to apply my knowledge and skills to create meaningful and innovative projects. My current goal is to get a job at <strong>Yandex</strong>, where I can contribute to the development of high-tech solutions and grow as a professional in the field of programming.</p>
 
-<h3>Связаться со мной</h3>
-<p>Если вы заинтересованы в моих проектах или хотите обсудить возможности сотрудничества, не стесняйтесь связываться со мной:</p>
+<h3>Contact Me</h3>
+<p>If you're interested in my projects or want to discuss collaboration opportunities, feel free to contact me:</p>
 
-<ul>
-  <li>📧 Email: f.shevtsev@yandex.ru</li>
+<ul class="contact">
+    <li>📧 Email: <a href="mailto:f.shevtsev@yandex.ru">f.shevtsev@yandex.ru</a></li>
 </ul>
