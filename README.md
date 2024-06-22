@@ -16,5 +16,4 @@
 
 <ul>
   <li>📧 Email: f.shevtsev@yandex.ru</li>
-  <li>👤 Telegramm: @Spartak7856</li>
 </ul>
